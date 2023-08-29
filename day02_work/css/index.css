@@ -1,0 +1,22 @@
+ul>li{
+    width: 100px;
+    height: 40px;
+    color: black;
+    border: 2px solid black;
+    background-color: gray;
+    float: left;
+    padding: 20px;
+    margin-right: 5px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 30px;
+}
+
+ul{
+    list-style-type: none;
+    margin-left: 300px;
+    padding: 0px;
+}
+body{
+    margin: 0;
+}
